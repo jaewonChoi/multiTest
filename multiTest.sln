@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D0C67A47-F63E-868A-DFC6-A28B2C827C2D}") = "multiTest", "Assembly-CSharp.csproj", "{9EBEA2B9-9B01-6290-3D18-43DEAC065E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EBEA2B9-9B01-6290-3D18-43DEAC065E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBEA2B9-9B01-6290-3D18-43DEAC065E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBEA2B9-9B01-6290-3D18-43DEAC065E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBEA2B9-9B01-6290-3D18-43DEAC065E34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
